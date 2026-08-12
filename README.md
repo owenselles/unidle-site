@@ -1,6 +1,6 @@
-# StayActive — website
+# Unidle — website
 
-Landing, support, and privacy pages for the StayActive macOS app, served with
+Landing, support, and privacy pages for the Unidle macOS app, served with
 GitHub Pages. Static HTML and one stylesheet; no build step.
 
 The app source lives in a separate repository.
